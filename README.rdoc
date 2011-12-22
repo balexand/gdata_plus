@@ -1,8 +1,8 @@
 = gdata_plus
 
-{Source code}[https://github.com/balexand/gdata_plus] | {RDoc}[http://rubydoc.info/gems/gdata_plus/frames] | {Ruby Gem}[https://rubygems.org/gems/gdata_plus]
+== No longer maintained
 
-Simple, easy to use GData API that supports OAuth, Ruby 1.8/1.9 and uses Typhoeus as an HTTP client.
+Google now has an official GData Ruby gem: {google-api-client}[https://rubygems.org/gems/google-api-client]
 
 == Installation
 
